@@ -1,7 +1,7 @@
 # CHEEMS WEB
 **Hi, this is gonna go over some basics you need to know**
 # THEMES.JS
-**THIS IS YOU PUT YOUR CUSTOM THEMES** <br> to create a new theme you need to know some basics
+**THIS IS WHERE YOU PUT YOUR CUSTOM THEMES** <br> to create a new theme you need to know some basics
 *1.* "body" is the color of the background <br>
 *2.* "cheemslogo" is the color of the "CHEEMS WEB" logo on the **main** page <br>
 *3.* "searchBTN" is the color of button called "Search" <br>
