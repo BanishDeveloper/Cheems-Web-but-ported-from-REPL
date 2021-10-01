@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+body{
+    background-color: rgb(220,220,220);
+    font-family: 'DotGothic16', sans-serif;
+    font-weight:bold;
+}
+#cheemsLogo{
+    text-align:center;
+    color: rgb(3, 3, 3)
+}
+.top-item{
+    text-align:center;
+}
+input{
+	font-family: 'DotGothic16', sans-serif;
+}
+.search-input-text{
+    color: rgb(185, 175, 34);
+    margin-top: 25px;
+}
+.search-input{
+    background-color: white;
+    border: 3.5px solid rgb(9, 106, 170);
+    outline: none;
+}
+.search-input-text2{
+    font-size:5;
+    color:rgb(99, 98, 98)
+}
+.search-input-text2:hover{
+    cursor:pointer;
+}
+.search-input-text:hover{
+    cursor:pointer;
+}
+
+button {
+  font-family: 'DotGothic16', sans-serif;
+	font-weight: 600;
+	padding: 5px 10px;
+  text-align: center;
+	background-color: rgb(182, 182, 182);
+  text-decoration: none;
+  display: inline-block;
+	cursor: pointer;
+  border: 1.5px solid;
+  outline: none;
+  transition: 0.2s ease-in-out;
+}
+
+svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  fill: none;
+  stroke: #fff;
+  stroke-dasharray: 150 480;
+  stroke-dashoffset: 150;
+  transition: 1s ease-in-out;
+}
+
+button:hover {
+  transition: .5s ease-in-out;
+  background: #4F95DA;
+}
+
+button:hover svg {
+  stroke-dashoffset: -480;
+}
+
+button span {
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
+}
