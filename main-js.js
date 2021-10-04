@@ -55,3 +55,6 @@ document.getElementById("change-theme").onclick = function () {
 
 	}
 }
+document.getElementById("disco").onclick = function(){
+	window.location.assign("https://discord.gg/46QxsC6xu6")
+}

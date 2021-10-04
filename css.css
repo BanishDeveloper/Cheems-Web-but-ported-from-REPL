@@ -62,7 +62,7 @@ svg {
 
 button:hover {
   transition: .5s ease-in-out;
-  background: #4F95DA;
+  background: rgb(205,205,205);
 }
 
 button:hover svg {

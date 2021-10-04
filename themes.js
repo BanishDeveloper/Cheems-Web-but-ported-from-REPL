@@ -30,6 +30,30 @@ themes = {
 		searchWebmode = "rgb(255,255,255)", // Search Mode 3
 		searchBorder = "rgb(46, 32, 32)", // searchInp-Border 4
 		themeName = "Lava Theme" // tname 5
+	],
+	tk_theme: [
+		body = "rgb(128, 0, 128)", // body 0
+		cheemslogo = "rgb(0,0,0)", // logo 1
+		searchBTN = "rgb(225, 194, 242)",// searchBTN2
+		searchWebmode = "rgb(185, 175, 34)", // SMW 3
+		searchBorder = "rgb(104, 0, 122)", // searchInp-Border 4
+		themeName = "Purple Theme" // tname 5
+	],
+	greyscale: [
+		body = "rgb(220,220,220)", // body 0
+		cheemslogo = "rgb(0,0,0)", // logo 1
+		searchBTN = "rgb(60,60,60)",// searchBTN2
+		searchWebmode = "rgb(110,100,110)", // SMW 3
+		searchBorder = "rgb(160,160,160)",//searchInp-Border 4
+		themeName = "Greyscale" // tname 5
+	],
+	greyscale_dark: [
+		body = "rgb(20,20,20)", // body 0
+		cheemslogo = "rgb(225,225,225)", // logo 1
+		searchBTN = "rgb(200,200,200)",// searchBTN2
+		searchWebmode = "rgb(130,130,130)", // SMW 3
+		searchBorder = "rgb(110,110,110)", // searchInp-Border 4
+		themeName = "Greyscale [Dark]" // tname 5
 	]
 }
 function placetheme(theme) {
